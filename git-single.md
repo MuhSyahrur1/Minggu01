@@ -26,3 +26,9 @@ pada gambar diatas adalah tampilan ketika kita menggunakan Git Gui
 ![8](https://user-images.githubusercontent.com/92331446/154242983-429f907c-4e52-4ed7-a9c8-4536b8a01b72.JPG)
 pada gambar diatas adalah tampilan pada cmd , ketika kita menuliskan perintah Git lalu enter jika tampilannya seperti pada gambar diatas maka git sudah bisa digunakan di cmd 
 
+2. konfigurasi Git
+![image](https://user-images.githubusercontent.com/92331446/154244866-20bcd119-5a97-4a0a-ac5a-105b3aaf4c84.png)
+Pada gambar diatas adalah Untuk login ke Git,disini saya telah membuat akun terlebih dahulu dengan menggunakan gitHub. Kemudian menuliskan perintah seperti pada gambar diatas lalu tekan enter. 
+
+![image](https://user-images.githubusercontent.com/92331446/154245012-22e30ba6-0752-4dd1-b362-15585a96be6c.png)
+Pada gambar diatas adalah dimana untuk memastikan proses login Anda berhasil, masukkan perintah $ git config –list , maka akan menampilkan output seperti pada gambar diatas yaitu menampilkan informasi nama user dan emailnya
