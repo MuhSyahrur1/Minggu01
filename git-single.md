@@ -38,3 +38,13 @@ Pada gambar diatas adalah Untuk login ke Git,disini saya telah membuat akun terl
 
 
 Pada gambar diatas adalah dimana untuk memastikan proses login Anda berhasil, masukkan perintah $ git config –list , maka akan menampilkan output seperti pada gambar diatas yaitu menampilkan informasi nama user dan emailnya
+
+3. Mengelola Repo Sendiri di Account Sendiri
+
+mengelola repo
+![9](https://user-images.githubusercontent.com/92331446/154251504-c68712df-03f1-4759-9c14-2a550f404db9.JPG)
+
+![10](https://user-images.githubusercontent.com/92331446/154251555-bbb82ff7-f118-44f2-8d00-904aff607149.JPG)
+
+
+
