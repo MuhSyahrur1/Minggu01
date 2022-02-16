@@ -6,19 +6,24 @@ pada langkah ini adalah dimana kita akan mendownload Git dengan mengetikan alama
 pada halaman diatas menampilkan beberapa pilihan untuk menignstal dan disini saya memilih 64 bit sesuai dengan laptop saya
 
 ![3](https://user-images.githubusercontent.com/92331446/154240126-06075e95-1f90-45fc-993c-017207acd89e.JPG)
+
 setelah filenya terdownload kita klik file download tadi maka akan tampil perintah untuk instal dan kita klik untuk memulai proses penginstalan
 
 
 ![4](https://user-images.githubusercontent.com/92331446/154240397-39fce524-2964-4c8a-80b8-a7ff8e64ab67.JPG)
+
 karena laptop saya sudah terinstal Git terlebih dahulu dengan versi 2.33 dan untuk versi saat saya download sekarang adalah 3.35 maka ketika diinstall laptop akan otomatis menguodate dari versi lama ke versi terbaru.
 
 ![image](https://user-images.githubusercontent.com/92331446/154241268-519ffafa-f7ee-4033-92c6-dbe8bb468f74.png)
+
 pada gambar diatas adalah tamplan Git pada start menu, dsini terdapat Git Gui dan Git Bash 
 
 ![5](https://user-images.githubusercontent.com/92331446/154241977-1cba5d1a-13cc-4afd-bc18-6a2c5d24cad1.JPG)
+
 pada gambar diatas adalah tampilan ketika kita mengklik git bash
 
 ![6](https://user-images.githubusercontent.com/92331446/154242346-673aa389-612e-454d-9b9f-dd28e7e1e46e.JPG)
+
 pada gambar diatas adalah tampilan ketika kita menggunakan Git Gui
 
 
@@ -42,11 +47,13 @@ Pada gambar diatas adalah dimana untuk memastikan proses login Anda berhasil, ma
 3. Mengelola Repo Sendiri di Account Sendiri
 
 membuat repo
+
 ![9](https://user-images.githubusercontent.com/92331446/154251504-c68712df-03f1-4759-9c14-2a550f404db9.JPG)
 
 ![10](https://user-images.githubusercontent.com/92331446/154251555-bbb82ff7-f118-44f2-8d00-904aff607149.JPG)
 
 clone repo
+
 ![11](https://user-images.githubusercontent.com/92331446/154282246-312d672d-4af2-4534-aef4-e40daf56c8d5.JPG)
 
 ![12](https://user-images.githubusercontent.com/92331446/154282320-8c5a37a2-71c0-4946-9ee1-8768d0e740bf.JPG)
@@ -55,6 +62,7 @@ clone repo
 
 
 mengelola repo
+
 ![14](https://user-images.githubusercontent.com/92331446/154282795-3c85c898-f984-4ebf-a64f-2af73e179333.JPG)
 
 ![15](https://user-images.githubusercontent.com/92331446/154282897-dcfdf34d-c4f2-4550-8ff0-1c2e69647245.JPG)
