@@ -41,10 +41,35 @@ Pada gambar diatas adalah dimana untuk memastikan proses login Anda berhasil, ma
 
 3. Mengelola Repo Sendiri di Account Sendiri
 
-mengelola repo
+membuat repo
 ![9](https://user-images.githubusercontent.com/92331446/154251504-c68712df-03f1-4759-9c14-2a550f404db9.JPG)
 
 ![10](https://user-images.githubusercontent.com/92331446/154251555-bbb82ff7-f118-44f2-8d00-904aff607149.JPG)
+
+clone repo
+![11](https://user-images.githubusercontent.com/92331446/154282246-312d672d-4af2-4534-aef4-e40daf56c8d5.JPG)
+
+![12](https://user-images.githubusercontent.com/92331446/154282320-8c5a37a2-71c0-4946-9ee1-8768d0e740bf.JPG)
+
+![13](https://user-images.githubusercontent.com/92331446/154282584-da67c851-1ff7-40d2-b600-6a964b16f2e4.JPG)
+
+
+mengelola repo
+![14](https://user-images.githubusercontent.com/92331446/154282795-3c85c898-f984-4ebf-a64f-2af73e179333.JPG)
+
+![15](https://user-images.githubusercontent.com/92331446/154282897-dcfdf34d-c4f2-4550-8ff0-1c2e69647245.JPG)
+
+![16](https://user-images.githubusercontent.com/92331446/154282952-ccf5f8ec-2806-4d0c-a465-79e856594b4a.JPG)
+
+![17](https://user-images.githubusercontent.com/92331446/154283247-9ed4d63b-a2df-4cc5-961f-6c133a079916.JPG)
+
+![18](https://user-images.githubusercontent.com/92331446/154283375-196f4b74-08ad-4330-b4b7-ad67d5df03f6.JPG)
+
+![19](https://user-images.githubusercontent.com/92331446/154283433-d6063cfe-149d-4359-b576-edc3bc742b98.JPG)
+
+![20](https://user-images.githubusercontent.com/92331446/154283456-8ff764a2-b4ac-4f88-a1b4-b92ac54e5b70.JPG)
+
+
 
 
 
